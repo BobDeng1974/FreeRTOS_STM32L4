@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# FreeRTOS
+FreeRTOS/FreeRTOSv10.2.1_191129
+!FreeRTOSv10.2.1_191129.exe
