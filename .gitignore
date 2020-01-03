@@ -54,3 +54,5 @@ dkms.conf
 # FreeRTOS
 FreeRTOS/FreeRTOSv10.2.1_191129
 !FreeRTOSv10.2.1_191129.exe
+ALIENTEK_Pandora_STM32L475
+ALIENTEK_Pandora_STM32L475.uvguix.*
